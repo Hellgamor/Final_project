@@ -43,7 +43,7 @@
 
 1. Для запуска теста необходимо в файл configuration.py вставить актуальный URL стенда (пример: 
 https://68b0eca5-2eab-424b-aa7a-b56d7c658e73.serverhub.praktikum-services.ru)
-2. В файле sender_stand_request.py нажать кнопку Run 
+2. В файле sender_stand_request.py нажать кнопку Run или ввести в терминале команду `pytest`
 
 ## Стек для выполнения проекта
 * PyCharm
