@@ -1,6 +1,7 @@
 import configuration
 import requests
 import data
+# Ольга Морозова, 14-я когорта — Финальный проект. Инженер по тестированию плюс
 
 # функция создания заказа
 def make_order_track():
